@@ -1,2 +1,5 @@
 # Bootstrap-Portfolio
-Homework Assignment 2 - Bootstrap Portfolio
+
+Basic portfolio built using Bootstrap.
+
+https://srtalaie.github.io/Bootstrap-Portfolio/
